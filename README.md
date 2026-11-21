@@ -1,4 +1,7 @@
-# The World in One Day — 20 November 2026
+[![make.fun bounty](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/utus729-cmyk/Makefun-2-event/rank.svg)](https://make.fun/bounty/news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/utus729-cmyk/Makefun-2-event/reward.svg)](https://make.fun/bounty/news-image-20261120)
+[make.fun bounty: Sum up 20 November's world news in one image](https://make.fun/bounty/news-image-20261120)# The World in One Day — 20 November 2026
 
 A program that draws a one-image summary of the world news of
 **Friday, November 20, 2026** as a newspaper front page.
